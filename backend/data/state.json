@@ -1,0 +1,22 @@
+{
+  "statuses": [
+    {
+      "id": "1774348892901",
+      "name": "a",
+      "isInitial": true
+    },
+    {
+      "id": "1774348948609",
+      "name": "ff",
+      "isInitial": false
+    }
+  ],
+  "transitions": [
+    {
+      "id": "1774348953055",
+      "name": "e",
+      "fromId": "1774348892901",
+      "toId": "1774348948609"
+    }
+  ]
+}
